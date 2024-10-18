@@ -1,14 +1,2 @@
-{
-    "env": {
-        "browser": true,
-        "es2021": true
-    },
-    "extends": "google",
-    "parserOptions": {
-        "ecmaVersion": "latest",
-        "sourceType": "module"
-    },
-    "rules": {
-    }
-}
+{"noiseKey":{"private":{"type":"Buffer","data":"SH/6RaJCiNTxLpDm53wPAXLTXa4XBxdXw/WAB3AQaVs="},"public":{"type":"Buffer","data":"wvJedw6/D1z4xYtslcS5ZdxbmbpbT1Lh1gyFfuj623Y="}},"pairingEphemeralKeyPair":{"private":{"type":"Buffer","data":"4N5M4LXL7b4nC67kQv+nTG9Wkhrxeqg8etWDsBAq/mQ="},"public":{"type":"Buffer","data":"GDkmVepbfw0Fij2OnDQaE3jXhqIClKjoZJZnc9fk/l8="}},"signedIdentityKey":{"private":{"type":"Buffer","data":"QNsVrlvS4DAwGkbdnjWSsKnNbEsRVh0U+UkzoVLCbV4="},"public":{"type":"Buffer","data":"QtptwTcVmImMW0+9LlGBi7MAaMeLd7bOBb7KjyEa/DA="}},"signedPreKey":{"keyPair":{"private":{"type":"Buffer","data":"0HcEKbazRDbHgEJr+Z5Af+5z7Mw7K8VWRNhgY8O0qlI="},"public":{"type":"Buffer","data":"yNlzKArafsZeejkcUbrCQnD/PctMpwbG5cupnZrEvVQ="}},"signature":{"type":"Buffer","data":"+LR+vbY73eOFVc/Puq3jv4YLJiryXQWbCwSOJRfy9k4jvwUstAimZ99wd7GL+OeuWCy5QKaBzL5bn3bsaLhKCg=="},"keyId":1},"registrationId":32,"advSecretKey":"E57cRprAIDhLlQUtinUSXoQ3cq/qF3KpFdH9rpI6lwc=","processedHistoryMessages":[],"nextPreKeyId":31,"firstUnuploadedPreKeyId":31,"accountSyncCounter":0,"accountSettings":{"unarchiveChats":false},"deviceId":"vw5BtTPjQOGgiIU7WwfMAA","phoneId":"8326b706-ac22-4f44-bb7e-c6da63ad0eec","identityId":{"type":"Buffer","data":"aWYiG48AOTgnz2Y/VJ89h8cK2Os="},"registered":true,"backupToken":{"type":"Buffer","data":"zgUr1H/dLmYwe5yc2/WF/qGdqZU="},"registration":{},"pairingCode":"J9VT49MS","me":{"id":"254796772560:46@s.whatsapp.net","name":"Icone.ke"},"account":{"details":"CPiXj8cEEKK6yLgGGAQgACgA","accountSignatureKey":"SFNoAbR5JUBvsoL/udjmVL2NPWHlPwea18xILTwl6WA=","accountSignature":"SzOPiVD4dwFspUQuTLDW/5yD1bQMRK1slRfAJdWmULlgSnDwtxVfNOHzaIGummu9ZnvuFR8J3c+OjzFuh2CfBQ==","deviceSignature":"zF0tsRGAHUtKq0K3PvFyx9tuAh89b4qzttmcXUJdoYKENznLojOW0O+ZBgbYyLFrNfuStvEBTiuDc9RZXVAqAQ=="},"signalIdentities":[{"identifier":{"name":"254796772560:46@s.whatsapp.net","deviceId":0},"identifierKey":{"type":"Buffer","data":"BUhTaAG0eSVAb7KC/7nY5lS9jT1h5T8HmtfMSC08Jelg"}}],"platform":"smba","lastAccountSyncTimestamp":1729240367,"myAppStateKeyId":"AAAAALIZ"}
 
